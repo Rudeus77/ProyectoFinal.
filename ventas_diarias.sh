@@ -2,7 +2,7 @@
 
 ARCHIVO="ventas_compania_actualizado.csv"
 
-# Verificar si el archivo existe
+#Verificar si el archivo existe
 function verificar_archivo {
     if [[ ! -f "$ARCHIVO" ]]; then
         echo " Archivo no encontrado: $ARCHIVO"
