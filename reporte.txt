@@ -594,3 +594,152 @@ Generando reporte en /workspaces/ProyectoFinal./reporte.txt...
 • 138 unidades - Frutas
 • 135 unidades - Casco
 Reporte generado exitosamente en /workspaces/ProyectoFinal./reporte.txt.
+Generando reporte en /workspaces/ProyectoFinal./reporte.txt...
+========== REPORTE DIARIO ==========
+
+ Total de ingresos por categoría:
+• Ropa: $31726.77
+• 1201.2: $0.00
+• Hogar: $25339.80
+• Alimentos: $30082.23
+• Electrónica: $31980.12
+• Deportes: $30000.13
+
+ Total de ingresos por mes:
+• 2025-03: $13880.65
+• 2024-05: $14738.67
+• 2024-06: $7850.34
+• 2025-04: $5581.07
+• 2024-07: $14629.93
+• 2024-08: $14019.28
+• 2024-09: $8767.24
+• 2024-10: $11723.68
+• 2024-11: $14587.84
+• hón-: $0.00
+• 2024-12: $11908.77
+• 2025-01: $9822.55
+• 2024-04: $9281.96
+• 2025-02: $12337.07
+
+ Total de ingresos por cliente:
+• Elena Martínez: $1020.81
+• Elena Sánchez: $1814.85
+• Pedro Vargas: $1598.65
+• Ana López: $2821.99
+• María Martínez: $371.20
+• Pedro Ramírez: $331.19
+• Pedro Rodríguez: $345.37
+• Pedro Gómez: $1507.09
+• Elena Fernández: $3567.60
+• Javier Fernández: $1202.28
+• Fernando Pérez: $952.05
+• María López: $1513.07
+• Sofía Rodríguez: $824.54
+• Ana Torres: $2121.24
+• Ana Ramírez: $83.35
+• Carlos Rodríguez: $2538.94
+• Sofía Vargas: $1342.68
+• Roberto Ramírez: $1902.36
+• Lucía Fernández: $1238.82
+• Fernando Sánchez: $1486.91
+• María Rodríguez: $1531.63
+• Lucía Vargas: $1394.98
+• Sofía Martínez: $1900.94
+• María Torres: $470.36
+• María Sánchez: $854.41
+• Sofía Gómez: $2006.81
+• Javier Pérez: $731.85
+• Lucía Gómez: $514.95
+• Roberto Pérez: $2208.57
+• Javier Martínez: $1355.84
+• Carlos Ramírez: $1522.58
+• Fernando Rodríguez: $599.29
+• Javier López: $1843.59
+• Fernando Martínez: $1521.21
+• Carlos Vargas: $1804.43
+• Fernando López: $1575.75
+• Ana Vargas: $205.62
+• Javier Torres: $882.65
+• Carlos Gómez: $2206.60
+• Pedro Sánchez: $845.55
+• Elena Pérez: $537.35
+• Ana Gómez: $1031.06
+• Fernando Torres: $2153.36
+• María Vargas: $1494.43
+• Lucía Ramírez: $2680.32
+• 7: $0.00
+• Ana Sánchez: $727.05
+• Elena Rodríguez: $817.41
+• Roberto Sánchez: $874.25
+• Roberto Rodríguez: $2167.16
+• Javier Rodríguez: $452.41
+• Roberto Martínez: $1176.64
+• María Gómez: $1572.15
+• Roberto López: $2305.55
+• Javier Ramírez: $599.23
+• Pedro Pérez: $1503.59
+• Lucía Rodríguez: $1169.07
+• Lucía Martínez: $2820.39
+• Roberto Torres: $1385.48
+• Ana Fernández: $1625.00
+• Carlos Sánchez: $1628.47
+• Pedro Martínez: $2651.04
+• Sofía Pérez: $2279.53
+• Lucía Pérez: $2250.50
+• Sofía Ramírez: $2287.16
+• Elena López: $1451.15
+• Fernando Vargas: $963.12
+• Javier Sánchez: $1065.97
+• Fernando Gómez: $682.23
+• Elena Ramírez: $1908.49
+• Ana Martínez: $1130.21
+• Sofía López: $1397.89
+• Elena Torres: $1137.03
+• Pedro Fernández: $1635.33
+• Pedro López: $3955.48
+• Javier Vargas: $392.00
+• Sofía Fernández: $2317.74
+• Lucía Sánchez: $1275.29
+• Carlos Fernández: $2047.86
+• Roberto Vargas: $2242.41
+• Sofía Torres: $1154.68
+• Javier Gómez: $1909.34
+• Carlos Pérez: $1131.42
+• Pedro Torres: $1824.68
+• Ana Pérez: $1390.69
+• Roberto Gómez: $1951.89
+• Lucía López: $879.11
+• María Ramírez: $1941.68
+• María Pérez: $3077.04
+• Carlos López: $644.47
+• Fernando Fernández: $1393.50
+• Ana Rodríguez: $1415.32
+• Carlos Martínez: $2168.51
+• Elena Vargas: $1386.25
+• Lucía Torres: $1876.09
+• Sofía Sánchez: $1602.59
+• Fernando Ramírez: $1823.93
+• Roberto Fernández: $1416.02
+• Carlos Torres: $2178.45
+• Elena Gómez: $1609.99
+
+ Total de ingresos por departamento:
+• Marketing: $31283.40
+• Logística: $28362.24
+• 171.6: $0.00
+• Atención al Cliente: $28858.57
+• Finanzas: $33828.01
+• Ventas: $26796.83
+
+ Top 10 productos más vendidos (por cantidad):
+• 200 unidades - Tablet
+• 198 unidades - Pesas
+• 173 unidades - Leche
+• 171 unidades - Pantalón
+• 163 unidades - Camisa
+• 157 unidades - Laptop
+• 146 unidades - Smartwatch
+• 141 unidades - Mesa
+• 138 unidades - Frutas
+• 135 unidades - Casco
+Reporte generado exitosamente en /workspaces/ProyectoFinal./reporte.txt.
