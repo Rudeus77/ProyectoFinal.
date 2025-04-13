@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export API_KEY='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'
+export API_KEY='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'
 DESTINATARIO="wmarenco@ugb.edu.sv"
 REMITENTE="brayan05012@gmail.com"
 ASUNTO="Reporte de ventas diarias"
