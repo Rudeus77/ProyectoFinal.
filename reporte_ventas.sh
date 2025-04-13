@@ -56,14 +56,14 @@ function top_10_productos {
 
 # Función: Generar reporte completo
 function generar_reporte {
-    echo "Generando reporte en /workspaces/ProyectoFinal./reporte.txt..."
+    echo "Generando reporte en /workspaces/ProyectoFinal./reporte.txt ..."
     echo "========== REPORTE DIARIO ==========" >> "/workspaces/ProyectoFinal./reporte.txt"
     ingresos_por_categoria
     ingresos_por_mes
     ingresos_por_cliente
     ingresos_por_departamento
     top_10_productos
-    echo "Reporte generado exitosamente en /workspaces/ProyectoFinal./reporte.txt."
+    echo "Reporte generado exitosamente en /workspaces/ProyectoFinal./reporte.txt"
 }
 
 generar_reporte >> "/workspaces/ProyectoFinal./reporte.txt"
